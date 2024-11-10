@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Flex</title>
+    <style>
+
+        .color-container {
+            border: 1px solid gold;
+            padding: 10px;
+            display: flex;
+        }
+
+        .color-container >  div  {
+            width: 100px;
+            height: 50px;
+            color: white;
+        }
+
+        .red {
+            background-color: indianred; 
+            order: 7 ;
+        }
+        .orange {
+            background-color: orange;
+            order: 6;
+        }
+        .yellow {
+            background-color: yellow; 
+            order: 5;
+        }
+        .green {
+            background-color: lightgreen; 
+            order: 4;
+        }
+        .blue {
+            background-color: lightblue; 
+            order: 3;
+        }
+        .indigo {
+            background-color:  darkcyan; 
+            order: 2;
+        }
+        .violet {
+            background-color: violet; 
+            order: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class="color-container">
+        <div class="red">red</div>
+        <div class="orange">orange</div>
+        <div class="yellow">yellow</div>
+        <div class="green">green</div>
+        <div class="blue">blue</div>
+        <div class="indigo">indigo</div>
+        <div class="violet">violet</div>
+    </div>
+</body>
+</html>
