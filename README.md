@@ -32,6 +32,6 @@
 - [x] [11.2 Bootstrap Components](https://github.com/fkriarp/web-development.projects/tree/master/11.2%2BBootstrap%2BComponents/11.2%20Bootstrap%20Components)
 - [x] [11.3 TinDog Project](https://github.com/fkriarp/web-development.projects/tree/master/11.3%2BTinDog%2BProject/11.3%20TinDog%20Project)
 - [x] [10.0 Display Grid](https://github.com/fkriarp/web-development.projects/tree/master/10.0%20Display%20Grid)
-- [] [10.1 Grid Sizing](https://github.com/fkriarp/web-development.projects/tree/master/10.1%20Grid%20Sizing)
-- [] [10.2 Grid Placement](https://github.com/fkriarp/web-development.projects/tree/master/10.2%20Grid%20Placement)
-- [] [----------------------------------------------------]
+- [ ] [10.1 Grid Sizing](https://github.com/fkriarp/web-development.projects/tree/master/10.1%20Grid%20Sizing)
+- [ ] [10.2 Grid Placement](https://github.com/fkriarp/web-development.projects/tree/master/10.2%20Grid%20Placement)
+- [ ] [----------------------------------------------------]
