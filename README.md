@@ -31,4 +31,7 @@
 - [x] [11.0 Bootstrap Intro](https://github.com/fkriarp/web-development.projects/tree/master/11.0%2BBootstrap%2BIntro/11.0%20Bootstrap%20Intro)
 - [x] [11.2 Bootstrap Components](https://github.com/fkriarp/web-development.projects/tree/master/11.2%2BBootstrap%2BComponents/11.2%20Bootstrap%20Components)
 - [x] [11.3 TinDog Project](https://github.com/fkriarp/web-development.projects/tree/master/11.3%2BTinDog%2BProject/11.3%20TinDog%20Project)
-- [x] [----------------------------------------------------]
+- [x] [10.0 Display Grid]()
+- [] [10.1 Grid Sizing]()
+- [] [10.2 Grid Placement]()
+- [] [----------------------------------------------------]
