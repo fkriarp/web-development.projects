@@ -34,4 +34,4 @@
 - [x] [10.0 Display Grid](https://github.com/fkriarp/web-development.projects/tree/master/10.0%20Display%20Grid)
 - [ ] [10.1 Grid Sizing](https://github.com/fkriarp/web-development.projects/tree/master/10.1%20Grid%20Sizing)
 - [ ] [10.2 Grid Placement](https://github.com/fkriarp/web-development.projects/tree/master/10.2%20Grid%20Placement)
-- [ ] [----------------------------------------------------]
+<!-- - [ ] []() -->
